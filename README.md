@@ -1,4 +1,4 @@
 # app_running
 
-Bogota - 5km
-Santiado - 10km
+Bogota - 5km 
+Santiado - 10km 
