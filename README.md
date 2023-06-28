@@ -1,3 +1,4 @@
 # app_running
 
-Hola mundo
+- Bogotá - 5km 
+- Santiado - 10km 
