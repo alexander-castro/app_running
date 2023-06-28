@@ -1,4 +1,4 @@
 # app_running
 
-- Bogota - 5km 
+- Bogotá - 5km 
 - Santiado - 10km 
