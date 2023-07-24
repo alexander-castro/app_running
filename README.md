@@ -1,4 +1,6 @@
 # app_running
 
-- Bogotá - 5km 
+- Bogotá - 4km 
 - Santiado - 10km 
+
+Index: /home
